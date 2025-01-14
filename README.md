@@ -1,4 +1,5 @@
 Apache Multi-Site Setup Script
+
 This script automates the setup of multiple websites on an Apache server, including HTTP and HTTPS configurations. It simplifies the process of creating virtual hosts, obtaining SSL certificates using Let's Encrypt, and ensuring proper configurations for each domain.
 Features
 •	Automates Apache installation and configuration.
@@ -47,4 +48,5 @@ You can modify the script to:
 •	Implement redirects from HTTP to HTTPS.
 License
 This script is licensed under the MIT License. Feel free to modify and share it.
+
 
